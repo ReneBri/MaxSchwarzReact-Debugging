@@ -1,0 +1,1 @@
+Code given to me to test my debugging. Also in this module I learnt about ReactDev Tools and working with breakpoints within chrome.
